@@ -1,5 +1,5 @@
 # Charlie_chaplin-tribute-page
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00/Charlie_chaplin-tribute-page)
 !["Img"](https://static01.nyt.com/images/2014/09/19/arts/19CHAPLIN/19CHAPLIN-jumbo.jpg?quality=90&auto=webp)
 
  
