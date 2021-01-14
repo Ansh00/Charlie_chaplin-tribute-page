@@ -30,3 +30,60 @@ img {
   text-align: center;
 }
 
+
+.title {
+    font-size: 3em;
+    color: var(--main-text);
+    padding: 0.625em 0.625em 0.313em;
+    line-height: 0.9;
+  }
+  
+  .text {
+    font-family: 'Roboto', sans-serif;
+    padding: 0 0.625em 0.625em;
+    color: var(--main-text);
+    font-style: italic;
+  }
+  
+  .img-container {
+    margin: 1.25em auto 1.25em;
+    background-color: var(--secondary-clr);
+    object-fit: cover;
+  }
+  
+  .img-caption {
+    padding: 1.25em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 1em;
+  }
+  
+  .tribute-info {
+    padding: 0 0.625em;
+  }
+  
+  .tribute-info .subtitle {
+    font-size: 1.5em;
+    margin-bottom: 0.625em;
+  }
+  
+  .tribute-info .list {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.65;
+    text-align: left;
+    max-width: 550px;
+    margin: 0 auto;
+  }
+  
+  .tribute-info .list span {
+    font-weight: bold;
+  }
+  
+  .wikipedia {
+    padding: 1.25em 0.625em;
+  }
+  
+  .wikipedia a {
+    text-decoration: none;
+    color: var(--secondary-clr);
+  }
